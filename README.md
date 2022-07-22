@@ -4,6 +4,8 @@
 #### BugOut is a development project and bug management system. Users will be able to submit, track and resolve issues easily. Bugs can be created with different priority levels and have their working status changed as the issue becomes resolved. Projects can have a feed of issues with team commentary. Users will be able to sign up as managers or members, each with different permissions.
 
 [Server Repo](https://github.com/Emily-Herndon/BugOut-Server)
+
+#### Built by: [Emily Herndon](https://github.com/Emily-Herndon), [Angelika Selviyan](https://github.com/ASelviyan), and [Carlos Villatoro](https://github.com/carlos-villatoro)
 ---
 
 ---
@@ -90,7 +92,7 @@ As a user:
 - [X] mobile friendly/responsive front end
 - [X] dark mode
 - [X] tailwind styling
-- [] Carousel on /project 
+- [ ] Carousel on /project 
 
 ---
 ## Difficulties 
