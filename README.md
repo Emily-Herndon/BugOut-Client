@@ -2,6 +2,8 @@
 
 ### Description
 #### BugOut is a development project and bug management system. Users will be able to submit, track and resolve issues easily. Bugs can be created with different priority levels and have their working status changed as the issue becomes resolved. Projects can have a feed of issues with team commentary. Users will be able to sign up as managers or members, each with different permissions.
+
+[Server Repo](https://github.com/Emily-Herndon/BugOut-Server)
 ---
 
 ---
@@ -73,22 +75,22 @@ As a user:
 ---
 
 ## MVP Goals
-- a login page with authentication methods 
-- authorized page views based on login credentials
-- ability to show all projects
-- ability to only see 'assigned'/'owned' projects
-- ability to add projects if authorized
-- ability to add bugs if authorized
-- ability to close bugs if authorized
-- ability to sort projects and bugs
+- [X] a login page with authentication methods 
+- [X] authorized page views based on login credentials
+- [X] ability to show all projects
+- [X] ability to only see 'assigned'/'owned' projects
+- [X] ability to add projects if authorized
+- [X] ability to add bugs if authorized
+- [X] ability to close bugs if authorized
+- [X] ability to sort projects and bugs
 
 ---
 
 ## Stretch Goals
-- mobile friendly/responsive front end
-- dark mode
-- tailwind styling
-- Carousel on /project 
+- [X] mobile friendly/responsive front end
+- [X] dark mode
+- [X] tailwind styling
+- [] Carousel on /project 
 
 ---
 ## Difficulties 
